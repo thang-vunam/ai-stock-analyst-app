@@ -1,0 +1,7 @@
+{
+  "name": "ai-stock-analyst-functions",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google/genai": "^1.21.0"
+  }
+}
